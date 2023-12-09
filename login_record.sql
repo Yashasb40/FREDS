@@ -1,0 +1,10 @@
+insert into login_record (username, timestamp_t) values ('mjoynes0', STR_TO_DATE('11/16/2021', '%m/%d/%Y'));
+insert into login_record (username, timestamp_t) values ('tglisane5', STR_TO_DATE('5/13/2022', '%m/%d/%Y'));
+INSERT INTO login_record (username, timestamp_t) VALUES ('eretchless7', STR_TO_DATE('5/22/2022', '%m/%d/%Y'));
+INSERT INTO login_record (username, timestamp_t) VALUES ('jphizackarley6', STR_TO_DATE('1/19/2022', '%m/%d/%Y'));
+INSERT INTO login_record (username, timestamp_t) VALUES ('afallawe9', STR_TO_DATE('6/23/2022', '%m/%d/%Y'));
+INSERT INTO login_record (username, timestamp_t) VALUES ('cgallaher3', STR_TO_DATE('6/18/2022', '%m/%d/%Y'));
+INSERT INTO login_record (username, timestamp_t) VALUES ('piamittii8', STR_TO_DATE('8/27/2022', '%m/%d/%Y'));
+INSERT INTO login_record (username, timestamp_t) VALUES ('jhearsey2', STR_TO_DATE('4/6/2022', '%m/%d/%Y'));
+INSERT INTO login_record (username, timestamp_t) VALUES ('ahymas1', STR_TO_DATE('4/11/2022', '%m/%d/%Y'));
+INSERT INTO login_record (username, timestamp_t) VALUES ('cnother4', STR_TO_DATE('7/12/2022', '%m/%d/%Y'));
